@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ujjalzamam
+- 👋 Hi, I’m @Ujjalzaman
 - 👀 I’m interested in Front-End web Development
 - 🌱 I’m currently working at whitesoft
 - 💞️ I’m looking to collaborate on ...
